@@ -1,4 +1,4 @@
-<h1>Hi, i'm Vitor Sampaio 👋</h1>
+<h1>Hi, i'm Vitor 👋</h1>
 
 <h3>Welcome to my page!</h3>
 

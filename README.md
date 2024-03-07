@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sampaio0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.fsampaio_/)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfsampaio&show_icons=true&theme=dracula)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfsampaio&show_icons=true&theme=transparent)
 
 ### Languages:
 <div style="display: inline-block">

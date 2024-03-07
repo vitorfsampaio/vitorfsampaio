@@ -1,11 +1,12 @@
-### Hi, i'm Vitor Sampaio 👋
+<h1>Hi, i'm Vitor Sampaio 👋</h1>
 
-<h2>Welcome to my page!</h2>
+<h3>Welcome to my page!</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-sampaio0/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor.fsampaio_/)
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfsampaio&show_icons=true&theme=transparent)
+
 
 ### Languages:
 <div style="display: inline-block">
@@ -29,3 +30,5 @@
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+
+<em style="text-align: center;"></br>Open to collaborating on interesting and innovative projects.</em>
